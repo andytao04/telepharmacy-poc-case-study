@@ -100,8 +100,6 @@ This was a **pilot / PoC**, not a commercial production deployment.
 
 A recorded walkthrough of the prototype is available on YouTube:
 
-[![Telepharmacy PoC demo preview](https://img.youtube.com/vi/2PoKimcP7Ss/0.jpg)](https://youtu.be/2PoKimcP7Ss)
-
 **[Watch the Telepharmacy PoC demo](https://youtu.be/2PoKimcP7Ss)**
 
 ## Key design considerations
