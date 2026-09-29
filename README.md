@@ -100,7 +100,17 @@ This was a **pilot / PoC**, not a commercial production deployment.
 
 A recorded walkthrough of the prototype is available on YouTube:
 
+[![Telepharmacy PoC demo preview](https://img.youtube.com/vi/2PoKimcP7Ss/0.jpg)](https://youtu.be/2PoKimcP7Ss)
+
 **[Watch the Telepharmacy PoC demo](https://youtu.be/2PoKimcP7Ss)**
+
+### Prototype screenshots
+
+| App flow preview | App flow preview | App flow preview |
+| --- | --- | --- |
+| ![Telepharmacy prototype screenshot 1](https://img.youtube.com/vi/2PoKimcP7Ss/1.jpg) | ![Telepharmacy prototype screenshot 2](https://img.youtube.com/vi/2PoKimcP7Ss/2.jpg) | ![Telepharmacy prototype screenshot 3](https://img.youtube.com/vi/2PoKimcP7Ss/3.jpg) |
+
+These images are preview frames generated from the recorded prototype walkthrough. The video provides the clearest view of the complete interaction flow.
 
 ## Key design considerations
 
